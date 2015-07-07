@@ -28,4 +28,6 @@ hr {
 	font-size: 50px;
 }
 
-/* For mobile devices */
+.modal-text {
+	color: black;
+}
