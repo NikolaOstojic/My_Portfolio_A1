@@ -1,7 +1,18 @@
 body {
   font-family: 'Lato', sans-serif;
-  color: #747704;
+  color: white;
   font-weight: 300;
+  /* Background image info from http://sixrevisions.com/css/responsive-background-image/ */
+  background-image: url("background.png");
+  background-position: center center;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: cover;
+  background-color:#464646;
+}
+
+hr {
+	color: rgb(125,0,0);
 }
 
 .text-muted {
@@ -16,3 +27,5 @@ body {
 .title-super {
 	font-size: 50px;
 }
+
+/* For mobile devices */
