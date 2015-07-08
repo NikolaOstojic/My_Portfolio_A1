@@ -1,0 +1,36 @@
+body {
+  font-family: 'Lato', sans-serif;
+  color: white;
+  font-weight: 300;
+  background-image: url("../images/background.png");
+  background-position: center center;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: cover;
+  background-color:#464646;
+}
+
+hr {
+	color: rgb(125,0,0);
+}
+
+a {
+  color: white;
+}
+
+.text-muted {
+	color: #D0D0D0;
+
+}
+
+.text-thin {
+	font-weight: 100;
+}
+
+.title-super {
+	font-size: 50px;
+}
+
+.modal-text {
+	color: black;
+}
