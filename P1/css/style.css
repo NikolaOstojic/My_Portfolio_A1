@@ -15,8 +15,12 @@ hr {
 	color: rgb(125,0,0);
 }
 
+a {
+  color: white;
+}
+
 .text-muted {
-	color: #BCBBBB;
+	color: #D0D0D0;
 
 }
 
@@ -30,4 +34,8 @@ hr {
 
 .modal-text {
 	color: black;
+}
+
+.image adjust {
+  float:middle;
 }
