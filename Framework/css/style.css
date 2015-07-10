@@ -2,12 +2,8 @@ body {
   font-family: 'Lato', sans-serif;
   color: white;
   font-weight: 300;
-  background-image: url("../images/background.png");
-  background-position: center center;
-  background-repeat: no-repeat;
-  background-attachment: fixed;
+  background: #464646 url("../images/background.png") no-repeat fixed center center;
   background-size: cover;
-  background-color:#464646;
 }
 
 hr {
@@ -20,7 +16,6 @@ a {
 
 .text-muted {
 	color: #D0D0D0;
-
 }
 
 .text-thin {
@@ -33,4 +28,8 @@ a {
 
 .modal-text {
 	color: black;
+}
+
+.logo-center {
+  margin-top: 15px;
 }
